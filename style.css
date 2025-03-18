@@ -2,11 +2,13 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #0d0d0d;
+    background: url('') no-repeat center center fixed;
+    background-size: cover;
     color: #f0f0f0;
     font-family: Arial, sans-serif;
     scroll-behavior: smooth;
 }
+
 
 header {
     text-align: center;
